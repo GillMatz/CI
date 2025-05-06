@@ -1,0 +1,6 @@
+pandas
+numpy
+scipy
+pyarrow
+requests
+boto3==1.34.5
